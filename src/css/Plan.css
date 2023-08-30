@@ -1,0 +1,33 @@
+.plan {
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 5px;
+  margin: 10px;
+  min-width: 250px;
+  max-width: 30%;
+  height: auto; }
+  .plan-header {
+    border-bottom: 1px solid grey; }
+    .plan-header .plan-title {
+      text-align: center;
+      margin: 10px; }
+    .plan-header .plan-description {
+      font-size: 1em;
+      text-align: center;
+      margin: 10px; }
+  .plan-body {
+    margin: 10px;
+    text-align: center; }
+    .plan-body .plan-price {
+      text-align: center;
+      margin: 10px; }
+    .plan-body .plan-features {
+      font-size: 1em;
+      text-align: center;
+      margin: 10px; }
+
+div.plan.active {
+  border: 2px solid #000;
+  background: #aaa; }
+  div.plan.active hr {
+    border: 1px solid #000; }

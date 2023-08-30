@@ -1,0 +1,18 @@
+// Path src/scss/Plans.scss
+.plans {
+  background: white;
+  // display:block;
+  padding-top:34px;
+
+  .header {
+    padding: 20px 45px 0px 45px;
+    line-height:70%;
+  }
+
+  .plans-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+

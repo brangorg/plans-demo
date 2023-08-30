@@ -1,0 +1,22 @@
+.revenue-calculator {
+  width: 50%;
+  margin: 0 auto;
+  height: 100%;
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 5px;
+  text-align: center;
+  background-color: white;
+  padding-bottom: 25px; }
+  .revenue-calculator .detail-section {
+    padding-left: 10px;
+    text-align: left;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 0.5em; }
+  .revenue-calculator .revenue-section {
+    padding-left: 10px;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 0.5em; }

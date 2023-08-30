@@ -1,0 +1,10 @@
+.plans {
+  background: white;
+  padding-top: 34px; }
+  .plans .header {
+    padding: 20px 45px 0px 45px;
+    line-height: 70%; }
+  .plans .plans-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
