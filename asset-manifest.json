@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/plans-demo/static/css/main.bb6636cb.css",
+    "main.js": "/plans-demo/static/js/main.12b9a06e.js",
+    "static/media/logo-2.png": "/plans-demo/static/media/logo-2.efc10bc655212df76257.png",
+    "static/media/logo-1.png": "/plans-demo/static/media/logo-1.13ff5548f8405630bb65.png",
+    "index.html": "/plans-demo/index.html",
+    "main.bb6636cb.css.map": "/plans-demo/static/css/main.bb6636cb.css.map",
+    "main.12b9a06e.js.map": "/plans-demo/static/js/main.12b9a06e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb6636cb.css",
+    "static/js/main.12b9a06e.js"
+  ]
+}
